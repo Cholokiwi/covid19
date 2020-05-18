@@ -11,4 +11,4 @@ Este repositorio contiene el codigo de R que replica los resultados presentados 
 
 
 ## Sugerencias y comentarios ##
-Directamente a traves de PR en el repo o al email roycostilla@gmail.com.
+Directamente a traves de PR en el repo o por email: roycostilla@gmail.com y frojasca@gmail.com.
